@@ -1,6 +1,6 @@
 /* ============================================================
    Techni Façade · Paul Zimmermann, Morlaix
-   Gabarit de landing Debord Rénovation (celui qui convertit), habillé
+   Gabarit de landing artisan, habillé
    aux couleurs de son logo : gris ardoise, bleu d'action, jaune réservé
    aux fonds sombres. Aucun hex en dur hors de :root.
    ============================================================ */
@@ -1116,7 +1116,7 @@ main.svc-lp:has(.lp-band-hero) { padding-top: 0; }
 
 
 /* ---------- Techni Façade : preuve avant/après dans le hero ----------
-   La photo d'illustration du hero Debord est remplacée par un vrai chantier
+   La photo d illustration du hero est remplacée par un vrai chantier
    de Paul, avant et après : c'est la preuve la plus forte qu'on ait. Cellules
    en 4/3, à la taille réelle des photos (1024 px max), jamais agrandies. */
 .lp-hero-paire { margin: clamp(24px, 3vw, 34px) 0 0; }
