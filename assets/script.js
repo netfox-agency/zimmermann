@@ -30,9 +30,9 @@
      compterait une deuxieme fois la meme conversion. GTM reste dedie a
      GA4 et aux autres outils.
      ============================================================ */
-  var AW_ID = 'AW-XXXXXXXXXX';   // compte Ads de Paul à créer
-  var LABEL_DEVIS = 'XXXX';
-  var LABEL_APPEL = 'XXXX';
+  var AW_ID = 'AW-18555630770';  // compte Ads 957-223-4305 « Paul Zimmermann »
+  var LABEL_DEVIS = 'iTr7COH_7bEdELLpgZBF';  // Demande de devis (site)
+  var LABEL_APPEL = 'KRnwCJaa9rEdELLpgZBF';  // Appel depuis le site
   var adsOn = AW_ID.indexOf('XXXX') === -1;
 
   if (adsOn) {
